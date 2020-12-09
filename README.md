@@ -1,2 +1,2 @@
-# HTML-Practice
-Journey into HTML
+# HTML_Intro
+Intro into HTML
